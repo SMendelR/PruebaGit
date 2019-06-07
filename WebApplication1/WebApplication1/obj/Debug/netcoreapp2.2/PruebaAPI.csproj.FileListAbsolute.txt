@@ -1,0 +1,14 @@
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\PruebaAPI.deps.json
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\PruebaAPI.runtimeconfig.json
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\PruebaAPI.runtimeconfig.dev.json
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\PruebaAPI.dll
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\PruebaAPI.pdb
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\PruebaAPI.csprojAssemblyReference.cache
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\PruebaAPI.csproj.CoreCompileInputs.cache
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\PruebaAPI.RazorAssemblyInfo.cache
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\PruebaAPI.RazorAssemblyInfo.cs
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\PruebaAPI.AssemblyInfoInputs.cache
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\PruebaAPI.AssemblyInfo.cs
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\PruebaAPI.RazorTargetAssemblyInfo.cache
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\PruebaAPI.dll
+D:\CAPACITACIONES\PruebaGit\PruebaGit\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\PruebaAPI.pdb
